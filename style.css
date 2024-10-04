@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    border: 1px solid red;
 }
 .form-section{
     height: 100vh;
